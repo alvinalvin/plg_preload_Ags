@@ -33,7 +33,8 @@ function onBeforeRender(){
   $background = $this->params->get('background');
   $doc->addScript('plugins/system/preloadags/assets/js/percent-preloader.js');
   $doc->addStyleSheet('plugins/system/preloadags/assets/css/percent-preloader.css');
-  JHtml::script('https://code.jquery.com/jquery-3.6.0.slim.min.js');
+  JHtml::_('jquery.framework');
+  // JHtml::script('https://code.jquery.com/jquery-3.6.0.slim.min.js');
   // add style
   $style = '.preloader{
     background:'.$background.' ;
