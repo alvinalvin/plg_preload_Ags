@@ -20,7 +20,7 @@
 
 <h3>Compatibilty </h3>
 
-The plugin is compatible with joomla 3-4-5.
+<p>The plugin is compatible with joomla 3-4-5.</p>
 
 <h3> Change Log</h3>
 
