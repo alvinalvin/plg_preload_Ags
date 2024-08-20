@@ -5,7 +5,7 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/August-2024-blue">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/fakeloader.js-6c7156">
+<img alt="Static Badge" src="https://img.shields.io/badge/fakeloader.js-00ff00">
 
 </div>
 
