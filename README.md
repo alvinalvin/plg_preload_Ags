@@ -27,7 +27,7 @@ The module is compatible with joomla 3-4-5.
 ## Version [1.0.0] - 2024-09-20
 
 <ul>
-<li><b>[Added]</b>First version based in Fakeloader.js  <a href=http://joaopereirawd.github.io/fakeLoader.js/>fakeloader.js</a> 
+<li><b>[Added]</b>First version based in  <a href=http://joaopereirawd.github.io/fakeLoader.js/>Fakeloader.js</a> 
 </li>
 </ul>
 
