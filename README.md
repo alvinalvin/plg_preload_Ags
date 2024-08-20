@@ -3,13 +3,16 @@
 Preload_ags is a joomla plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading.
 
 # Installation and use
+<ul>
+<li>Install the plugin using Joomla! Extension Manager.</li>
+</ul>
 
-Install the plugin using Joomla! Extension Manager.
+Look for the extensions manager and go to the plugin.
+
 
 Configure plugin.
 
 
-Look for the extensions manager and go to the plugin.
 
 
 
