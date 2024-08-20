@@ -1,4 +1,5 @@
-https://img.shields.io/badge/version-1.0.0-blue
+
+<img alt="Static Badge" src="https://img.shields.io/badge/version-1.0.0-blue">
 
 
 <h3>plg_preload_Ags</h3>
