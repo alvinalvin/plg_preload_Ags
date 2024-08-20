@@ -3,7 +3,7 @@
 [![]
 <img alt="Static Badge" src="https://img.shields.io/badge/compatibilty%20joomla%205-8A2BE2">
 
-
+[![]
 <h3>plg_preload_Ags</h3>
  
 <p>Preload_Ags is a joomla plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading.</p>
