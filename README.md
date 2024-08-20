@@ -1,9 +1,10 @@
-
+<div id="header" align="left">
 <img alt="Static Badge" src="https://img.shields.io/badge/version-1.0.0-blue">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/compatibilty%20joomla%205-8A2BE2">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/August-2024-blue">
+<div</div>
 
 <h3>plg_preload_Ags</h3>
  
