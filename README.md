@@ -7,11 +7,13 @@ Preload_ags is a joomla plugin that helps you create an animated spinner with a 
 <li>Install the plugin using Joomla! Extension Manager.</li>
 </ul>
 
-Look for the extensions manager and go to the plugin.
+<ul>
+<li>Look for the extensions manager and go to the plugin.</li>
+</ul>
 
-
-Configure plugin.
-
+<ul>
+<li>Configure plugin.</li>
+</ul>
 
 
 
