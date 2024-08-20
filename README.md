@@ -4,7 +4,10 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/compatibilty%20joomla%205-8A2BE2">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/August-2024-blue">
-<div</div>
+
+<img alt="Static Badge" src="https://img.shields.io/badge/fakeloader.js-6c7156">
+
+</div>
 
 <h3>plg_preload_Ags</h3>
  
