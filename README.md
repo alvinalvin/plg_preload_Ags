@@ -7,6 +7,9 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/fakeloader.js-00ff00">
 
+<img alt="Static Badge" src="https://img.shields.io/badge/plugin-8A2BE2">
+
+
 </div>
 
 <h3>plg_preload_Ags</h3>
