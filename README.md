@@ -1,16 +1,4 @@
-<div id="header" align="left">
-<img alt="Static Badge" src="https://img.shields.io/badge/version-1.0.0-blue">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/compatibilty%20joomla%205-8A2BE2">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/release date-august-blue">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/fakeloader.js-00ff00">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/plugin-8A2BE2">
-
-
-</div>
 
 <h3>plg_preload_Ags</h3>
 
