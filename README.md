@@ -27,7 +27,7 @@ The module is compatible with joomla 3-4-5.
 ## Version [1.0.0] - 2024-09-20
 
 <ul>
-<li>Adding plugin for Joomla in its first version</li>
+<li>[Added]First version based in </li>
 </ul>
 
 
