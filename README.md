@@ -17,6 +17,7 @@ Look for the extensions manager and go to the plugin.
 
 The module is compatible with joomla 3-4-5.
 
+
 # License and Copyright
 
 This plugin is a open software and has the GNU LESSER GENERAL PUBLIC license. Copyright (C) 2023 Alvin Gil Saldaña All rights reserved.
