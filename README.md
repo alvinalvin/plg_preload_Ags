@@ -34,7 +34,7 @@
 
 <h3>License and Copyright</h3>
 
-This plugin is a open software and has the GNU LESSER GENERAL PUBLIC license. Copyright (C) 2024 Alvin Gil Saldaña All rights reserved.
+<p>This plugin is a open software and has the GNU LESSER GENERAL PUBLIC license. Copyright (C) 2024 Alvin Gil Saldaña All rights reserved.</p>
 
 
 
