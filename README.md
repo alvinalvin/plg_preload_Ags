@@ -24,7 +24,7 @@ The plugin is compatible with joomla 3-4-5.
 
 <h2> Change Log</h2>
 
-## Version [1.0.0] - 2024-09-20
+<h4>Version [1.0.0] - 2024-09-20</h4>
 
 <ul>
 <li><b>[Added]</b>First version based in  <a href=http://joaopereirawd.github.io/fakeLoader.js/>Fakeloader.js</a> 
