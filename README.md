@@ -18,7 +18,7 @@ Preload_Ags is a joomla plugin that helps you create an animated spinner with a 
 
 
 
-# <h3>Compatibilty </h3>
+# <h2>Compatibilty </h2>
 
 The plugin is compatible with joomla 3-4-5.
 
