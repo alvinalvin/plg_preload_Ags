@@ -1,4 +1,11 @@
 <?php
+
+/**
+* Developer: Alvin Gil Saldaña
+* @copyright        Copyright (c) 2024 . All rights reserved.
+* @license                http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+ */
+
 use Joomla\CMS\Factory;
 use Joomla\CMS\Plugin\CMSPlugin;
 // no direct access
