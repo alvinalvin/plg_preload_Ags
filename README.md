@@ -1,8 +1,4 @@
-
-
 <h3>plg_preload_Ags</h3>
-
-
  <div id="header" align="left">
 <img alt="Static Badge" src="https://img.shields.io/badge/version-1.0.0-blue">
 
