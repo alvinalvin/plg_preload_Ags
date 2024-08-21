@@ -44,6 +44,6 @@
 		</fields>
 	</config>
 	<updateservers>
-	<server type="extension" name="whatsappbuttonags">https://alvinalvin.github.io/updateserver.github.io/whatsapp.xml</server>
+	<server type="extension" name="whatsappbuttonags">https://github.com/alvinalvin/updateserver.github.io/blob/main/preload.xml</server>
 </updateservers>
 </extension>
