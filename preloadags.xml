@@ -43,4 +43,7 @@
 			</fieldset>
 		</fields>
 	</config>
+	<updateservers>
+	<server type="extension" name="whatsappbuttonags">https://alvinalvin.github.io/updateserver.github.io/whatsapp.xml</server>
+</updateservers>
 </extension>
