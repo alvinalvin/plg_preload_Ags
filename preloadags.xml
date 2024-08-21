@@ -1,40 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
 /**
- * @copyright	Copyright (c) 2023 load . All rights reserved.
+ * Developer: Alvin Gil Saldaña
+ * @copyright	Copyright (c) 2024 load . All rights reserved.
  * @license		http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
  */
 -->
 <extension type="plugin" version="3.0" group="system" method="upgrade">
-	<name>plg_system_preloadags</name>
-	<author></author>
-	<creationDate>October 2023</creationDate>
-	<copyright>Copyright (c) 2023 load. All rights reserved.</copyright>
+	<name> System - plg_system_preloadags</name>
+	<author>Alvin Gil Saldaña </author>
+	<creationDate>August 2024</creationDate>
+	<copyright>Copyright (c) 2024 load. All rights reserved.</copyright>
 	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
-	<authorEmail></authorEmail>
-	<authorUrl></authorUrl>
+	<authorEmail>alvin_gil@hotmail.com</authorEmail>
+	<authorUrl>https://github.com/alvinalvin</authorUrl>
 	<version>1.0.0</version>
 	<description>
-	<![CDATA[
-
-	]]>
+	<![CDATA[]]>
 	</description>
 
 	<files>
 		<filename plugin="preloadags">preloadags.php</filename>
 		<filename>index.html</filename>
+		<folder>assets</folder>
+
 	</files>
-
-	<languages>
-		<language tag="en-GB">en-GB.plg_system_preloadags.ini</language>
-		<language tag="en-GB">en-GB.plg_system_preloadags.sys.ini</language>
-	</languages>
-
-	<config>
+<config>
 		<fields name="params">
 			<fieldset name="basic">
-				<field name="background" default="#363062" type="color" label="background"/>
-				<field name="font" default="#F99417" type="color" label="font color"/>
+				<field name="style" type="list" default="spinner1" label="Style" description="">
+                                 <option value="spinner1">style 1</option>
+                                 <option value="spinner2">style 2</option>
+				 <option value="spinner3">style 3</option>
+				 <option value="spinner4">style 4</option>
+				 <option value="spinner5">style 5</option>
+				 <option value="spinner6">style 6</option>
+				 <option value="spinner7">style 7</option>
+
+                    </field>
+				<field name="font" default="#2ecc71" type="color" label="font color"/>
 
 			</fieldset>
 		</fields>
