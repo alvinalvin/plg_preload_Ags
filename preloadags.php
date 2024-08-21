@@ -1,10 +1,10 @@
 <?php
-
 /**
 * Developer: Alvin Gil Saldaña
-* @copyright        Copyright (c) 2024 . All rights reserved.
-* @license                http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+* @copyright	Copyright (c) 2023 . All rights reserved.
+* @license		http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
  */
+
 
 use Joomla\CMS\Factory;
 use Joomla\CMS\Plugin\CMSPlugin;
@@ -22,12 +22,7 @@ if ($app->isClient("administrator")) {
   }
 $body = $this->app->getBody();
 // html
-$html='<div class="preloader">
-         <div class="inner">
-           <span class="percentage"><span id="percentage">15</span>%</span>
-         </div>
-        <div class="loader-progress" id="loader-progress"> </div>
-      </div>';
+$html='<div class="fakeLoader"></div>';
  $body = str_replace('</body>',  $html .'</body>', $body );
  $this->app->setBody($body);
 }
@@ -37,18 +32,20 @@ function onBeforeRender(){
   $doc = JFactory::getDocument();
   // params
   $fontcolor = $this->params->get('font');
-  $background = $this->params->get('background');
-  $doc->addScript('plugins/system/preloadags/assets/js/percent-preloader.js');
-  $doc->addStyleSheet('plugins/system/preloadags/assets/css/percent-preloader.css');
+  $style = $this->params->get('style');
+  $doc->addScript('plugins/system/preloadags/assets/js/fakeLoader.min.js');
+  $doc->addStyleSheet('plugins/system/preloadags/assets/css/fakeLoader.min.css');
   JHtml::_('jquery.framework');
-  // JHtml::script('https://code.jquery.com/jquery-3.6.0.slim.min.js');
-  // add style
-  $style = '.preloader{
-    background:'.$background.' ;
-  }
-  .percentage{
-    color:'.$fontcolor.';
-  }';
-  $doc->addStyleDeclaration($style);
+// add jquery
+  $doc->addScriptDeclaration("
+
+  $(document).ready(function () {
+      $.fakeLoader({
+          bgColor: '$fontcolor',
+          spinner:'$style'
+      });
+  });
+");
+
 }
- }
+  }
