@@ -1,7 +1,7 @@
 <?php
 /**
 * Developer: Alvin Gil Saldaña
-* @copyright	Copyright (c) 2023 . All rights reserved.
+* @copyright	Copyright (c) 2024. All rights reserved.
 * @license		http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
  */
 
